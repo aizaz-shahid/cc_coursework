@@ -1,4 +1,4 @@
-#### Hijri Interiors
+## Hijri Interiors
 
 ## About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects
@@ -27,20 +27,20 @@ It will migrate the database schema and then you are good to go.
 	
 ## Functionality:
 
-1)Contact US Emails:
+####1)Contact US Emails:
 	If a user wants to contact the company he can write his details and message and an email will be sent to the 		     company.
 
-2)Order with Google Places Api:
+####2)Order with Google Places Api:
 	As mentioned above, the users can order an item from the gallery or catalogue and while ordering the user can 		      select his location from google places autocomplete api to fill in the address conviniently.
 
-3)User Roles and previliges:
+####3)User Roles and previliges:
 	From admin you can do crud operations in stock database. you can add aur revoke previliges to other user 		 roles. There are three different user roles i.e super admin, admin and user.
 
-4)Security:
+####4)Security:
 	In this application jwt authentication is being used, other than that password hashing is also implemented. 		    SSL certificate is also installed.
 
-5)APIs:
+####5)APIs:
 	Client application is communicating with server application via REST APIs.
 
-6)Cloud Database Replication
+####6)Cloud Database Replication
 	Google Cloud SQL is being used as the database for the application and there are replicas as well. Google SQL proxy service is being used to connect to the database and handle load balancing.
