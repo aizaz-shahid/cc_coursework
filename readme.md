@@ -27,7 +27,7 @@ It will migrate the database schema and then you are good to go.
 	
 ## Functionality:
 
-####1)Contact US Emails:
+#### 1)Contact US Emails:
 	If a user wants to contact the company he can write his details and message and an email will be sent to the 		     company.
 
 ####2)Order with Google Places Api:
